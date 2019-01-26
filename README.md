@@ -1,5 +1,5 @@
 # Prolog
-The "other" programming language: Logic programming (in Prolog) to accomplish "magical" things.
+The "other" programming language: Logic programming to accomplish "magical" things.
   
 2017-05-27/RSa: potentially to do:
   - more statements to follow?
