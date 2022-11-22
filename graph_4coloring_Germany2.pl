@@ -2,7 +2,7 @@
 
    source: https://bernardopires.com/2013/10/try-logic-programming-a-gentle-introduction-to-prolog/
 
-   RSa test on grolog v.1.3.0, 2017-04-20: OK
+   test on grolog v.1.3.0, 2017-04-20: OK
 
    run program: ?- main.
 
