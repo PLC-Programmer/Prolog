@@ -2,8 +2,8 @@
 
    source: http://www.learnprolognow.org/lpnpage.php?pagetype=html&pageid=lpn-htmlse49
 
-   RSa test on grolog v.1.3.0, 2017-04-20: OK
-   RSa test on SWI Prolog v.7.4.2, 2017-04-20: OK!   
+   test on grolog v.1.3.0, 2017-04-20: OK
+   test on SWI Prolog v.7.4.2, 2017-04-20: OK!   
 
    run program alt.1: ?- main1.
    run program alt.2: ?- main2.
