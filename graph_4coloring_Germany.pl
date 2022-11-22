@@ -1,6 +1,6 @@
 /* graph_4coloring_Germany.pl */
 /* source: https://bernardopires.com/2013/10/try-logic-programming-a-gentle-introduction-to-prolog/ */
-/* RSa test on gprolog, 2017-04-19: OK! => many solutions... */
+/* test on gprolog, 2017-04-19: OK! => many solutions... */
 /* Q: how many solutions are there? */
 /* query: germany(SH, MV, ....). ? a */
 color(red).
