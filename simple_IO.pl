@@ -3,8 +3,8 @@
    http://www.anselm.edu/homepage/mmalita/culpro/files.html
    http://www.swi-prolog.org/pldoc/doc_for?object=root
 
-   RSa test on grolog v.1.3.0, 2017-04-20: OK!
-   RSa test on SWI Prolog v.7.4.2, 2017-04-20: OK!
+   test on grolog v.1.3.0, 2017-04-20: OK!
+   test on SWI Prolog v.7.4.2, 2017-04-20: OK!
 
    run program: ?- concatenate.
    using predicates: write(), read(), see(), seen, get_char()  */
