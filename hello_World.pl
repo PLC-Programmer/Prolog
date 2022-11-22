@@ -8,7 +8,7 @@
    => DO NOT HAVE source code files with INITIAL Capital letter ("Hello_World.pl")
      => INITIAL Capital letters are ONLY FOR VARIABLES!
 
-   RSa test on grolog v.1.3.0, 2017-04-22: OK
+   test on grolog v.1.3.0, 2017-04-22: OK
 
    run program: ?- main.
 
