@@ -1,6 +1,6 @@
 /* graph_3coloring_Germany.pl */
 /* source: https://bernardopires.com/2013/10/try-logic-programming-a-gentle-introduction-to-prolog/ */
-/* RSa test on gprolog, 2017-04-19: OK (no solution!) */
+/* test on gprolog, 2017-04-19: OK (no solution!) */
 color(red).
 color(green).
 color(blue).
